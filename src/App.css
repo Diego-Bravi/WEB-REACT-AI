@@ -9,7 +9,7 @@ body {
     background: var(--color-bg);
 }
 
-a{
+a {
     color: unset;
     text-decoration: none;
 }
